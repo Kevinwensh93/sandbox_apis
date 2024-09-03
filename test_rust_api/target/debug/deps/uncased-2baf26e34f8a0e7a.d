@@ -1,0 +1,11 @@
+/Users/kevinwen/Documents/GitHub/sandbox_apis/test_rust_api/target/debug/deps/libuncased-2baf26e34f8a0e7a.rmeta: /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/kevinwen/Documents/GitHub/sandbox_apis/test_rust_api/target/debug/deps/libuncased-2baf26e34f8a0e7a.rlib: /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/kevinwen/Documents/GitHub/sandbox_apis/test_rust_api/target/debug/deps/uncased-2baf26e34f8a0e7a.d: /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs /Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs
+
+/Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/lib.rs:
+/Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/serde.rs:
+/Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/owned.rs:
+/Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/borrowed.rs:
+/Users/kevinwen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/uncased-0.9.10/src/as_uncased.rs:
